@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="gravity" size="180.000000 152.666672" />
+    <ImageTarget name="another_" size="180.000000 155.333328" />
+    <ImageTarget name="multiangel_shape03" size="90.000000 89.444443" />
+    <ImageTarget name="target_image" size="90.000000 74.769234" />
+    <ImageTarget name="sample_board" size="180.000000 154.131729" />
+    <ImageTarget name="vuforiatest" size="200.000000 275.399353" />
+  </Tracking>
+</QCARConfig>
